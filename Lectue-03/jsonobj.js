@@ -1,3 +1,5 @@
+const { Hello } = require("../Lectue-04/mainHello");
+
 const bookObj = {
     title : "Becoming",
     author : "Michelle Obama",
@@ -12,3 +14,4 @@ const parsedBook = JSON.parse(bookJSON);
 console.log(parsedBook);
 console.log(parsedBook.title);
 console.log(typeof parsedBook);
+console.log(Hello, status);
