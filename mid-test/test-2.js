@@ -26,7 +26,7 @@ function updateInventory(currentInventory, newInventory) {
 }
 
 /* =======================
-   TEST CASE
+   TEST CAS
 ======================= */
 
 const currentInventory = [
